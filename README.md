@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tehseem110
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning node js and data React
+- 🌱 I’m currently learning node js and React
 - 💞️ I’m looking to collaborate on anything related to web apps
 - 📫 How to reach me tehseem010@gmail.com
 
