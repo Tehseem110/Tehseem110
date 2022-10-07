@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tehseem Ahmed
 - 👀 MERN stack Web developer 
-- 🌱 I'm currently learning Advanced CRUD operations with proper authentication
+- 🌱 I'm currently learning Advanced React and Nodes.js
 - 💞️ I’m looking to collaborate on anything related to web apps
 - 📫 How to reach me tehseem010@gmail.com
 
