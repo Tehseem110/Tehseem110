@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tehseem Ahmed
-- 👀 MERN stack Web developer 
+- 👀 Full stack Web developer 
 - 🌱 I'm currently learning Advanced React and Nodes.js
-- 💞️ I’m looking to collaborate on anything related to web apps
+- 💞️ I’m looking to collaborate on anything related to web apps or native mobile applications
 - 📫 How to reach me tehseem010@gmail.com
 
 <!---
