@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tehseem Ahmed
 - 👀 Full stack Web developer 
 - 🌱 I'm currently using Nest js and React Stack
-- 💞️ I’m looking to collaborate on anything related to web apps or native mobile applications
+- 💞️ I’m looking to collaborate on anything related to web apps (MERN STACK)or native mobile applications
 - 📫 How to reach me tehseem010@gmail.com
 
 <!---
